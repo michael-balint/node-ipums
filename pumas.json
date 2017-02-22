@@ -16644,5 +16644,19 @@
     "code": "0611300",
     "name": "Yolo County--Davis, Woodland & West Sacramento Cities PUMA; California",
     "state": "California"
+  },
+  "0611300": {
+    "abbr": "GU",
+    "fips": "66",
+    "code": "6600100",
+    "name": "Guam",
+    "state": "Guam"
+  },
+  "7800100": {
+    "abbr": "VI",
+    "fips": "78",
+    "code": "7800100",
+    "name": "Virgin Islands",
+    "state": "Virgin Islands"
   }
 }
